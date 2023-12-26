@@ -4,3 +4,16 @@ i key - go up
 k key down
 j key - left
 l key - right
+
+remember to download all files from the repository otherwise the game will not load
+
+check if you have python and pygame installed on your computer, 
+without these key elements the game will not run.
+
+You can run the game on Linux and Windows platforms
+
+If you don't have python and pygame installed, follow the instructions in this tutorial. (Windows Platform)
+https://tiny.pl/c6rl7
+
+
+
