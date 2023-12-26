@@ -1,0 +1,6 @@
+we use the following keys to move
+
+i key - go up
+k key down
+j key - left
+l key - right
